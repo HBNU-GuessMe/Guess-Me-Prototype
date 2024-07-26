@@ -10,4 +10,4 @@ ex) cd /Users/lee/flutter/myproject
 2. 명령어 flutter build apk --release --target-platform=android-arm64 입력
 
  
-3. 빌드 경로는 [Project Forder]/build/app/outputs/apk/release/app-release.apk 해당 파일을 안드로이드 폰에 옮겨서 설
+3. 빌드 경로는 [Project Forder]/build/app/outputs/apk/release/app-release.apk 해당 파일을 안드로이드 폰에 옮겨서 설치
