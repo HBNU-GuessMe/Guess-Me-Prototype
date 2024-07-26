@@ -4,7 +4,7 @@
 
 ## Getting Started
 
-1.1 build/app-release.apk 파일을 다운받아 안드로이드 폰에 설치완료! (만약, 해당 단계가 안된다면 1.2로 방법부터 진행)
+1.1 build/app-release.apk 파일을 다운받아 안드로이드 폰에 설치완료! (만약, 설치가 안된다면 1.2로 방법부터 진행)
 
 1.2 터미널 혹은 커맨드창에서 '빌드하고 싶은 플러터 프로젝트 디렉토리로 이동'
 ex) cd /Users/lee/flutter/myproject
